@@ -55,4 +55,4 @@ The TIM framework is open-sourced software licensed under the [MIT license](http
 Donate
 -------------
 
-<img width="50%" height="500" src="http://ool6x4l46.bkt.clouddn.com/about-me/wechat-pay.png"><img width="50%" height="472" src="http://ool6x4l46.bkt.clouddn.com/about-me/alipay-pay.jpg">
+<img width="50%" height="500" src="http://ool6x4l46.bkt.clouddn.com/about-me/wechat-pay.png"><img width="50%" height="472" src="http://ool6x4l46.bkt.clouddn.com/about-me/alipay-pay.png">
